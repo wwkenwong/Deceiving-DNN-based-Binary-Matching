@@ -1,0 +1,6 @@
+*.pyc
+*/*.pyc
+workdir*/
+.gdbinit
+.gdb_history
+.idea/
